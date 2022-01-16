@@ -3,8 +3,7 @@
 var game = {};
 game.murderer = "??";
 game['weapons'] = [
-  
-  {type :'laser',location : 'lab'}
+  {type :'laser',location : 'lab'},
 
 {type : 'angry birds', location: 'beanHouse'},
 
